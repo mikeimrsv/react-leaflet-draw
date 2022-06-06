@@ -3,7 +3,7 @@
   "version": "0.19.000000000081242421",
   "description": "React component for leaflet-draw",
   "main": "src/index.js",
-  "module": "dist/esm/index.js",
+  "module": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build:dist": "npm run build:umd && npm run build:umd:min && npm run build:esm",
