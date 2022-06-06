@@ -1,8 +1,8 @@
 {
   "name": "react-leaflet-draw",
-  "version": "0.19.8",
+  "version": "0.19.000000000081242421",
   "description": "React component for leaflet-draw",
-  "main": "dist/react-leaflet-draw.js",
+  "main": "src/index.js",
   "module": "dist/esm/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,10 +19,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/alex3165/react-leaflet-draw.git"
+    "url": "git+ssh://git@github.com:mikeimrsv/react-leaflet-draw.git"
   },
   "files": [
-    "dist",
     "src"
   ],
   "keywords": [
